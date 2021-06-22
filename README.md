@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rahul Shaw</h1>
+<h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px>, I'm Rahul Shaw</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahulshaw&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahulshaw" /> </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="340" height="250" />
 
-- 🌱 I’m currently learning **Bootstrap 5**
+- <img src="./gif/fire.gif" height=30px width=30px> I’m currently learning **Bootstrap 5**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- <img src="./gif/rocket.gif" height=30px width=30px> I’m looking to collaborate on **Frontend projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Git, C/C++**
+- <img src="./gif/backhand_index_pointing_right.gif" height=30px width=30px> Ask me about **HTML, CSS, JavaScript, Git, C/C++**
 
-- 📫 How to reach me **www.linkedin.com/in/IamRahulShaw**
+- <img src="./gif/eyes.gif" height=30px width=30px> How to reach me **www.linkedin.com/in/IamRahulShaw**
 
-- ⚡ Fun fact **You are looking at my profile**
+- <img src="./gif/smiling_face_with_sunglasses.gif" height=30px width=30px> Fun fact **You are looking at my profile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
