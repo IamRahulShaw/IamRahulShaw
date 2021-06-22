@@ -29,8 +29,7 @@
 
 <p><br /><img align="right" width= "310" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrahulshaw&show_icons=true&locale=en&layout=compact&hide_border=true" alt="iamrahulshaw" /></p>
 
-<center>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrahulshaw&" alt="iamrahulshaw" /></p>
-</center>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrahulshaw&" alt="iamrahulshaw" /></p>
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
