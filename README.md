@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahulshaw&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahulshaw" /> </p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
 - 🌱 I’m currently learning **Bootstrap 5**
 
