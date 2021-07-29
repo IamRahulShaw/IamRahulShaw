@@ -8,7 +8,7 @@
 
 - <img src="./gif/rocket.gif" height=30px width=30px> I’m looking to collaborate on **Frontend projects**
 
-- <img src="./gif/backhand_index_pointing_right.gif" height=30px width=30px> Ask me about **HTML, CSS, JavaScript, Git, C/C++**
+- <img src="./gif/backhand_index_pointing_right.gif" height=30px width=30px> Ask me about **HTML, CSS, JavaScript, Git**
 
 - <img src="./gif/eyes.gif" height=30px width=30px> How to reach me **www.linkedin.com/in/IamRahulShaw**
 
