@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahulshaw&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahulshaw" /> </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="340" height="250" />
 
-- <img src="./gif/fire.gif" height=30px width=30px> I’m currently learning **Bootstrap 5**
+- <img src="./gif/fire.gif" height=30px width=30px> I’m currently learning **React Js**
 
 - <img src="./gif/rocket.gif" height=30px width=30px> I’m looking to collaborate on **Frontend projects**
 
