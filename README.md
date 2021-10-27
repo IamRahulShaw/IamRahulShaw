@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px>, I'm Rahul Shaw</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahulshaw&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahulshaw" /> </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="340" height="250" />
